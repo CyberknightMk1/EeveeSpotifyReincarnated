@@ -1,4 +1,4 @@
-name: Create IPA Packages
+name: Work Damnit
 
 on:
   workflow_dispatch:
